@@ -1,0 +1,13 @@
+main {
+    font-family: 'Libre Baskerville', serif;
+}
+
+#img-caption {
+    font-style: italic;
+    font-size: 14px;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
